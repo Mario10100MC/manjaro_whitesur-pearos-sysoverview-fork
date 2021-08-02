@@ -1,4 +1,4 @@
-# Manjaro Whitesur sysoverview | a fork of pearOS'(Pear-Project/system-overview)
+# Manjaro Whitesur sysoverview | a fork of pearOS'(Pear-Project/system-overview) System Overview
 An Fork of the pearOS System Overview that is an theming the of Manjaro XFCE with the WhiteSur Theme
 
 Copyrights:
